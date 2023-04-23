@@ -1,5 +1,9 @@
 # Student Journal Library
 
+## Description
+
+This project is a restful api built with Java Spring
+
 ## Screenshots
 
 Rest API Endpoints
